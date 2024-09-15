@@ -1,6 +1,6 @@
 NOTE: Currently Work in Progress
 # FoundryNFT
-A project for me to learn how to develop my own NFT that follows the ERC-721 token standard; with the use of OpenZeppelin ERC-721 smart contract.
+A project for me to learn how to develop my own NFT that follows the ERC-721 token standard; with the use of OpenZeppelin ERC-721 smart contract. The .png is hosted on IPFS.
 I am implementhing this project myself, with my own code, guided by the [Cyfrin Updraft's smart contract development course](https://github.com/Cyfrin/foundry-full-course-cu).
 
 # Getting Started
